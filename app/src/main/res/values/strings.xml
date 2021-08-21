@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">view 01</string>
+    <string name="tx_message">Enter a message</string>
+    <string name="btn_send">SEND</string>
+</resources>
